@@ -3,7 +3,7 @@ import { Cloud, GitBranch, Server, Terminal, Settings, ShieldCheck } from 'lucid
 
 function App() {
   const [isVisible, setIsVisible] = useState(false);
-  const name = "Allen"; // Placeholder name
+  const name = "allen"; // Placeholder name
 
   useEffect(() => {
     // Trigger fade-in animation after component mounts
